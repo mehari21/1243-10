@@ -1,0 +1,5 @@
+first_name mahare 
+last_name melaku 
+id 1243/10
+section B year 4rd
+semister 1st
