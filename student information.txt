@@ -1,7 +1,7 @@
 first_name mahare 
 last_name melaku 
 id 1243/10
-section B year 4rd
+section B year 4th
 semister 1st
 
 git is VSC
